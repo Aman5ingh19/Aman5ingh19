@@ -262,21 +262,36 @@ Completed a full-stack development internship through the IBM Partnership Progra
 
 ---
 
-## Certifications
+## Certifications & Research Publication
 
 <div align="center">
 
-<a href="https://infyspringboard.onwingspan.com/"><img src="https://img.shields.io/badge/Infosys%20Springboard-Database%20and%20SQL-4F46E5?style=for-the-badge&logo=databricks&logoColor=white" alt="Database and SQL — Infosys Springboard"/></a>
+<a href="https://ijmsrt.com/">
+  <img src="https://img.shields.io/badge/Research%20Publication-Phishing%20Detection%20in%20Email%20using%20Deep%20Learning-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research Publication"/>
+</a>
+
+**Phishing Detection in Email using Deep Learning**  
+*International Journal of Modern Science and Research Technology (IJMSRT) — 2025*
+
+<br/><br/>
+
+<a href="https://infyspringboard.onwingspan.com/">
+  <img src="https://img.shields.io/badge/Infosys%20Springboard-Database%20and%20SQL-4F46E5?style=for-the-badge&logo=databricks&logoColor=white" alt="Database and SQL — Infosys Springboard"/>
+</a>
 
 **Database and SQL — Infosys Springboard**  
 *April 2025*
 
-<br/>
+<br/><br/>
 
-<a href="https://cognitiveclass.ai/"><img src="https://img.shields.io/badge/IBM%20Cognitive%20Class-NoSQL%20and%20DBaaS%20101-6D28D9?style=for-the-badge&logo=ibm&logoColor=white" alt="NoSQL and DBaaS 101 — IBM Cognitive Class"/></a>
+<a href="https://cognitiveclass.ai/">
+  <img src="https://img.shields.io/badge/IBM%20Cognitive%20Class-NoSQL%20and%20DBaaS%20101-6D28D9?style=for-the-badge&logo=ibm&logoColor=white" alt="NoSQL and DBaaS 101 — IBM Cognitive Class"/>
+</a>
 
 **NoSQL and DBaaS 101 — IBM / Cognitive Class**  
 *July 2025*
+
+</div>
 
 </div>
 
@@ -320,17 +335,6 @@ Completed a full-stack development internship through the IBM Partnership Progra
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/Aman5ingh19">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman5ingh19&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity Graph"/>
-</a>
-
-</div>
-
----
 
 ## Contribution Snake
 
