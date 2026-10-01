@@ -270,7 +270,7 @@ Completed a full-stack development internship through the IBM Partnership Progra
   <img src="https://img.shields.io/badge/Research%20Publication-Phishing%20Detection%20in%20Email%20using%20Deep%20Learning-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research Publication"/>
 </a>
 
-**Phishing Detection in Email using Deep Learning**  
+**[Phishing Detection in Email using Deep Learning](https://github.com/Aman5ingh19/Phishing-Detection-in-Email-using-deep-learning)**  
 *International Journal of Modern Science and Research Technology (IJMSRT) — 2025*
 
 <br/><br/>
