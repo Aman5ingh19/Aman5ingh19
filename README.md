@@ -405,11 +405,7 @@ I'm always open to meaningful conversations, technical collaboration, and opport
 
 <br/><br/>
 
-**Email:** [amansingh1992002@gmail.com](mailto:amansingh1992002@gmail.com)
 
-**Portfolio:** [aman-portpolio.vercel.app](https://aman-portpolio.vercel.app/)
-
-**LinkedIn:** [linkedin.com/in/aman-singh-533519301](https://linkedin.com/in/aman-singh-533519301)
 
 </div>
 
@@ -423,8 +419,5 @@ I'm always open to meaningful conversations, technical collaboration, and opport
 
 <sub>Designed with purpose. Built with curiosity. Driven by engineering.</sub>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Build-Learn-Improve-7C3AED?style=for-the-badge" alt="Build Learn Improve"/>
 
 </div>
